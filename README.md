@@ -101,10 +101,10 @@ Crud-Backend-Mern/
 | DELETE | `/teachers/deleteteacher/:teacherId` | Delete teacher |
 
 ### You can test APIs using **Postman**
-### Example (Add Student)
-**POST**
+### Example (Get All Students data )
+**GET**
 
-https://crud-backend-mern.onrender.com/students/addstudent
+https://crud-backend-mern.onrender.com/students/getstudenddata
 
 ---
 
