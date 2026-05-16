@@ -104,7 +104,7 @@ Crud-Backend-Mern/
 ### Example (Get All Students data )
 **GET**
 
-https://crud-backend-mern.onrender.com/students/getstudenddata
+https://crud-backend-mern.onrender.com/students/getstudentdata
 
 ---
 
