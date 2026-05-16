@@ -23,40 +23,47 @@ https://crud-backend-mern.onrender.com
 ---
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
-- config
-  - databaseconnection.js
+```
+Crud-Backend-Mern/
+│
+├── config/
+│   └── databaseconnection.js
+│
+├── controller/
+│   ├── studentcontroller/
+│   │   ├── addstudentdata.js
+│   │   ├── deletestudentdatabyrollno.js
+│   │   ├── getstudentdata.js
+│   │   ├── getstudentdatabyrollno.js
+│   │   └── updatestudentdata.js
+│   │
+│   └── teachercontroller/
+│       ├── addteacher.js
+│       ├── deleteteacher.js
+│       ├── getteacherdata.js
+│       ├── getteacherdatabyid.js
+│       └── updateteacher.js
+│
+├── model/
+│   ├── studentschema.js
+│   └── teacherschema.js
+│
+├── routes/
+│   ├── studentroutes.js
+│   └── teacherroutes.js
+│
+├── index.js
+├── package.json
+├── package-lock.json
+├── .gitignore
+├── .env
+└── rough.js
+```
 
-- controller
-  - studentcontroller
-    - addstudentdata.js
-    - deletestudentdatabyrollno.js
-    - getstudentdata.js
-    - getstudentdatabyrollno.js
-    - updatestudentdata.js
 
-  - teachercontroller
-    - addteacher.js
-    - deleteteacher.js
-    - getteacherdata.js
-    - getteacherdatabyid.js
-    - updateteacher.js
 
-- model
-  - studentschema.js
-  - teacherschema.js
 
-- routes
-  - studentroutes.js
-  - teacherroutes.js
-
-- index.js
-- package.json
-- package-lock.json
-- .gitignore
-- .env
-- rough.js
   
 ## 📌 Features
 
