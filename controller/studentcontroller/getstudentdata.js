@@ -4,7 +4,7 @@ const student = require('../../model/studentschema');
 
 const getdata = async(req,res)=>{
     try{
-        const students  = await Student.find();
+        const students  = await student.find();
         res.status(200).json({
             message:"student data fetched successfully",
             data : students
