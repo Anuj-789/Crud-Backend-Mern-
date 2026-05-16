@@ -1,4 +1,4 @@
-# 🏫 School Management System - Backend API
+## 🚀 Backend API - Node.js | Express | MongoDB
 
 A complete RESTful backend API for managing students and teachers in a school system built using **Node.js, Express.js, and MongoDB Atlas**.
 
