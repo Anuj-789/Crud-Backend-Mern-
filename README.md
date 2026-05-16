@@ -25,10 +25,9 @@ https://crud-backend-mern.onrender.com
 ## 📁 Project Structure
 
 project/
-│
 ├── model/
-│ ├── studentschema.js
-│ └── teacherschema.js
+│ ├── studentschema.js/
+│ └── teacherschema.js/
 │
 ├── controller/
 │ ├── studentcontroller/
@@ -104,4 +103,14 @@ cd Crud-Backend-Mern
 npm install
 
 npm run dev
+
+### 🔗 Connect with Me
+
+[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuj-k-549184327)
+&nbsp;&nbsp;
+[![🐙 GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github)](https://github.com/Anuj-789)
+&nbsp;&nbsp;
+[![✉️ Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:anuj437795@example.com)
+
+### 🌟Thanks for checking out this project! Hope you enjoyed exploring it 😊
 
