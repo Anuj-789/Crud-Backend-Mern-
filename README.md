@@ -97,7 +97,7 @@ https://crud-backend-mern.onrender.com/students/addstudent
 ### 📥 How to Clone & Setup Project
 
 ```bash
-git clone https://github.com/your-username/Crud-Backend-Mern.git
+git clone https://github.com/Anuj-789/Crud-Backend-Mern.git
 
 cd Crud-Backend-Mern
 
