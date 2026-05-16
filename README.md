@@ -4,13 +4,6 @@ A complete RESTful backend API for managing students and teachers in a school sy
 
 ---
 
-## 🚀 Live API
-
-👉 Base URL:
-https://crud-backend-mern.onrender.com
-
----
-
 ## 🛠 Tech Stack
 
 - Node.js
@@ -107,12 +100,22 @@ Crud-Backend-Mern/
 | PUT | `/teachers/updateteacher/:teacherId` | Update teacher |
 | DELETE | `/teachers/deleteteacher/:teacherId` | Delete teacher |
 
-### You can test APIs using **Postman** or **Thunder Client**
+### You can test APIs using **Postman**
 ### Example (Add Student)
-
 **POST**
 
 https://crud-backend-mern.onrender.com/students/addstudent
+
+---
+
+## 🚀 Live API
+
+👉 Base URL:
+https://crud-backend-mern.onrender.com
+
+---
+
+
 
 ### 📥 How to Clone & Setup Project
 
@@ -135,6 +138,6 @@ npm run dev
 &nbsp;&nbsp;
 [![✉️ Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:anuj437795@example.com)
 
-
+### 🌟Thanks for checking out this project! Hope you enjoyed exploring it 😊
 
 
