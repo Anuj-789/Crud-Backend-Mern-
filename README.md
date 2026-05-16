@@ -23,34 +23,33 @@ https://crud-backend-mern.onrender.com
 ---
 
 ## 📁 Project Structure
-
-Crud-Backend-Mern/
+Crud-Backend-Mern
 │
-├── config/
-│   └── databaseconnection.js
+├── config
+│ └── databaseconnection.js
 │
-├── controller/
-│   ├── studentcontroller/
-│   │   ├── addstudentdata.js
-│   │   ├── deletestudentdatabyrollno.js
-│   │   ├── getstudentdata.js
-│   │   ├── getstudentdatabyrollno.js
-│   │   └── updatestudentdata.js
-│   │
-│   └── teachercontroller/
-│       ├── addteacher.js
-│       ├── deleteteacher.js
-│       ├── getteacherdata.js
-│       ├── getteacherdatabyid.js
-│       └── updateteacher.js
+├── controller
+│ ├── studentcontroller
+│ │ ├── addstudentdata.js
+│ │ ├── deletestudentdatabyrollno.js
+│ │ ├── getstudentdata.js
+│ │ ├── getstudentdatabyrollno.js
+│ │ └── updatestudentdata.js
+│ │
+│ └── teachercontroller
+│ ├── addteacher.js
+│ ├── deleteteacher.js
+│ ├── getteacherdata.js
+│ ├── getteacherdatabyid.js
+│ └── updateteacher.js
 │
-├── model/
-│   ├── studentschema.js
-│   └── teacherschema.js
+├── model
+│ ├── studentschema.js
+│ └── teacherschema.js
 │
-├── routes/
-│   ├── studentroutes.js
-│   └── teacherroutes.js
+├── routes
+│ ├── studentroutes.js
+│ └── teacherroutes.js
 │
 ├── index.js
 ├── package.json
@@ -58,7 +57,6 @@ Crud-Backend-Mern/
 ├── .gitignore
 ├── .env
 └── rough.js
-
 ## 📌 Features
 
 ### 👨‍🎓 Student Module
