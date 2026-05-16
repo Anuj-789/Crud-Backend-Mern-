@@ -125,6 +125,7 @@ npm install
 
 npm run dev
 
+```
 
 ### 🔗 Connect with Me
 
@@ -134,5 +135,6 @@ npm run dev
 &nbsp;&nbsp;
 [![✉️ Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:anuj437795@example.com)
 
-### 🌟Thanks for checking out this project! Hope you enjoyed exploring it 😊
+
+
 
